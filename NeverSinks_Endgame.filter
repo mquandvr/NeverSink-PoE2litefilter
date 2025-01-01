@@ -260,9 +260,9 @@ SetFontSize 40
 Show
 Class "Currency"
 BaseType "Simulacrum Splinter" "Breach Splinter" " Artifact" 
-SetTextColor 255 255 126
-SetBorderColor 0 52 13
-SetBackgroundColor 0 240 190
+SetTextColor 199 207 95
+SetBorderColor 65 255 65
+SetBackgroundColor 0 109 39
 PlayAlertSound 2 100
 PlayEffect White Temp
 MinimapIcon 1 White Kite
